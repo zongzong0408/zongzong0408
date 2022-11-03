@@ -1,19 +1,22 @@
-# 👋 Hi, I’m @zongzong0408  
-嗨，各位，我內湖人，目前就讀公立高中，歡迎各位大能之士來跟我資訊交流。  
-目前對**網路安全**、**圖像辨識**、**C語言的應用**很感興趣，希望能互相交流心得和成品結晶。  
+# 👋 自我介紹 💬
 
-I'm live on Taiwan, currently a high school student.  
-Following is my basic introduction...   
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zongzong0408">
 
-- 👀 I’m interested in :  
-  - 💻 Network Security, Pattern Recognition, Cryptography  
-- 🌱 I’m currently learning :  
-  - 📝 C & AI  
-- 💞️ I’m looking to collaborate on :  
-  - 😞 nope  
-- 📫 How to reach me :   
-  - 📧 Email : zongzongchu0408@gmail.com  
-<!---
-zongzong0408/zongzong0408 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 開頭致詞
+
+Hola mi amigo ~ 🙌  
+嗨，你好 ~ 🤞
+
+	本人對資訊領域特別有興趣，未來也希望能躋身資訊業，還各位多多指教。🐱‍👤
+
+## 個人基本資訊卡
+
+- 姓名：朱容徵
+- 稱呼：zong zong
+- 就讀學校：臺北市立中正高級中學
+- 就讀年級：高三
+- 聯絡信箱：zongzongchu0408@gmail.com
+
+## 專長
+
+## 目前鑽研的專案
