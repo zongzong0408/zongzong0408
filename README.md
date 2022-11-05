@@ -1,6 +1,6 @@
 # 👋 自我介紹 💬
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zongzong0408">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zongzong0408&hide=ASP.NET">
 
 ## 開頭致詞
 
@@ -18,5 +18,7 @@ Hola mi amigo ~ 🙌
 - 聯絡信箱：zongzongchu0408@gmail.com
 
 ## 專長
+
+![](https://img.shields.io/badge/python-3.7.0-orange?style=for-the-badge&logo=python&logoColor=orange)
 
 ## 目前鑽研的專案
