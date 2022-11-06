@@ -19,7 +19,7 @@ Hola mi amigo ~ 🙌
   
 ## 專長  
 
-![C](https://img.shields.io/badge/C-11-brightgreen?style=for-the-badge&logo=c&logoColor=brightgreen)
+![C](https://img.shields.io/badge/C-11-green?style=for-the-badge&logo=c&logoColor=green)
 ![C++](https://img.shields.io/badge/C%2B%2B-11-success?style=for-the-badge&logo=c%2B%2B&logoColor=success)
 ![Python](https://img.shields.io/badge/python-3.7.0-informational?style=for-the-badge&logo=python&logoColor=informational)
 
