@@ -24,15 +24,19 @@ Hola mi amigo ~ 🙌
 ![Python](https://img.shields.io/badge/python-3.7.0-informational?style=for-the-badge&logo=python&logoColor=informational)
 
 
-## 目前鑽研的專案
+## 目前鑽研的專案  
+  
+  
 
 ## 其他 
 
 <img align="left" src="https://img.shields.io/youtube/channel/subscribers/UCDgTBSWS02nd49l4XkQu3_Q">
 <img align="left" src="https://img.shields.io/youtube/channel/views/UCDgTBSWS02nd49l4XkQu3_Q">
-<img align="left" src="https://img.shields.io/github/followers/zongzong0408?label=Follow">
+<img align="left" src="https://img.shields.io/github/followers/zongzong0408?label=Follow">  
 
 <!--
+<img align="left" width="50" height="50" src="https://static.vecteezy.com/system/resources/previews/003/399/771/original/youtube-icon-editorial-free-vector.jpg">
+
 	小標籤 連結：https://shields.io/
 	標籤 連結：https://simpleicons.org/
 -->
