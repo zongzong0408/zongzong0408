@@ -14,11 +14,13 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zongzong0408&hide=ASP.NET,JavaScript,HTML,CSS,Procfile&theme=dark">
 
+<!--
 - 姓名：朱容徵
 - 稱呼：***ᴢᴏɴɢ ᴢᴏɴɢ***
 - 就讀學校：臺北市立中正高級中學
 - 就讀年級：高三
 - 聯絡信箱：zongzongchu0408@gmail.com
+-->
 
 ## 專長  
 
